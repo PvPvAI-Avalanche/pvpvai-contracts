@@ -9,12 +9,11 @@ To enhance interactivity, players can dynamically influence the game by injectin
 
 At this time, PvPvAI supports a token room, where agents decide to buy,sell,hold and players can interact with it. Built on Avalanche Fuji testnet. The team is working incredibly to support other types of rooms as well.
 
-Watch the demo here : https://youtu.be/KUtedTVEZQQ?si=rtfqB-s05fJxraBN
+Watch the demo here : 
 
-Current version deployed on Avalanche fuji testnet.
-  - Core deployed at: 0x113c82579B17841c2F5E469EeaDBc12b05d6f64e
-  - Room implementation deployed at: 0xf4f545f274BF0016DC1d124eEeBA4743699c9831
-
+Deployment Addresses:
+Core : https://testnet.sonicscan.org/address/0xbf9a9a4220102593296bcdff9c8e5feeeec853f1
+Room : https://testnet.sonicscan.org/address/0x01846AD931301586Fb7f554f45370a0FaCA1Da24
 
 
 ## Game Mechanics
@@ -148,4 +147,4 @@ Current version deployed on Avalanche fuji testnet.
 ---
 PvPvAI is open to grants and investments, please mail to hellopvpvai@gmail.com to initiate discussions.
 
-🍪 Signup to Early Access for some cookies: https://pvpvaii-arena.vercel.app
+🍪 Signup to Early Access for some cookies: 
