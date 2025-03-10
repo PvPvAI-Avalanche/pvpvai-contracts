@@ -12,8 +12,8 @@ At this time, PvPvAI supports a token room, where agents decide to buy,sell,hold
 Watch the demo here : 
 
 Deployment Addresses:
-Core : https://testnet.sonicscan.org/address/0xbf9a9a4220102593296bcdff9c8e5feeeec853f1
-Room : https://testnet.sonicscan.org/address/0x01846AD931301586Fb7f554f45370a0FaCA1Da24
+- Core : https://testnet.sonicscan.org/address/0xbf9a9a4220102593296bcdff9c8e5feeeec853f1
+- Room : https://testnet.sonicscan.org/address/0x01846AD931301586Fb7f554f45370a0FaCA1Da24
 
 
 ## Game Mechanics
